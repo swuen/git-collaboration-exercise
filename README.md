@@ -1,6 +1,10 @@
-# Learn to git
+# Learn enough Git to hack
 
-#### Prep
+#### Before you begin
+
+To take part in this exercise you will need a programmer's text editor installed. A popular (and free) choice these days is [Atom](https://atom.io/), my personal favorite is [Microsoft's Visual Studio Code](https://code.visualstudio.com/download). They are both quite comparable in terms of features and both will be more than good enough for you this course.
+
+#### Get ready for the exercise
 
 Make sure you have an account in github and that you are logged in. Then just follow these steps:
 

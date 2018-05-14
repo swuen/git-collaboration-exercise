@@ -7,7 +7,7 @@ Make sure you have an account in github and that you are logged in. Then just fo
 1. Fork this repo
 2. Clone your forked copy into your computer (this will be your working copy)
 
-There should now be a folder in your computer that is an exact replica of this repo.
+When you are done with these steps, there should be a folder in your computer that is an exact replica of this repo.
 
 
 #### Your goal for today

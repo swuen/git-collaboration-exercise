@@ -12,5 +12,5 @@ There should now be a folder in your computer that is an exact replica of this r
 
 #### Your goal for today
 
-Select one song from the music supplied to you in the USB thumbdrive and try your best to transcribe the lyrics. Please don't look them up on Google, we will do that after this exercise, it's ok if you make mistakes or if there are phrases you don't understand. You can use the word *uninteligible* if you hear something that is impossible for you to transcribe.
+Select one song from the music supplied to you in the USB thumbdrive and try your best to transcribe the lyrics. Please don't look them up on Google, we will do that int he second half of the exercise, it's ok if you make mistakes or if there are phrases you don't understand. You can use the word *uninteligible* if you hear something that is impossible for you to transcribe.
 

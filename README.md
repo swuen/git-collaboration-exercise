@@ -2,7 +2,7 @@
 
 #### Before you begin
 
-To take part in this exercise you will need a programmer's text editor installed. A popular (and free) choice these days is [Atom](https://atom.io/), my personal favorite is [Microsoft's Visual Studio Code](https://code.visualstudio.com/download). They are both quite comparable in terms of features and both will be more than good enough for you this course.
+To take part in this exercise you will need a programmer's text editor installed. A popular (and free) choice these days is [Atom](https://atom.io/), my personal favorite is [Microsoft's Visual Studio Code](https://code.visualstudio.com/download). They are both available for Windows, OSX and Linux and they are both comparable in terms of features. Both of these editors are used by professional developers as well, so they have everything you will ever need for this course.
 
 #### Get ready for the exercise
 
